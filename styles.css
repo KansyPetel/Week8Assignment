@@ -1,0 +1,61 @@
+body {
+background-color: aqua;
+}
+div{
+    background: scroll;
+    border: 20px;
+}
+h1{
+    print-color-adjust: black;
+    border-style:outset;
+    animation: reverse;
+}
+h3{
+    color: deeppink;
+}
+
+table {
+    border: 10%;
+    width: 100%;
+}
+
+th, td {
+    padding: 1%;
+    text-align: center;
+    background-color:ghostwhite ;
+    border: 2px solid black;
+}
+
+/* mouse over link */
+a:hover {
+    color:red;
+}
+
+:link {
+    color:black; background-color: yellow; text-decoration: double; size: 100px;
+}
+
+h1:hover{
+    color: red;
+}
+h3:hover{
+background-color: yellow;
+}
+table:hover{
+color: red;
+}
+
+input:hover{
+    color: red;
+
+}
+*{
+    margin: 14px;
+    padding-top: 2px;
+}
+#img1{
+    float: top;
+    padding: 2px;
+}
+
+
